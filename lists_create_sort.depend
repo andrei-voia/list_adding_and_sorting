@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555629910 source:c:\users\predatorel\desktop\c\lists_create_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
